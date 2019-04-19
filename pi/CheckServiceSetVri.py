@@ -7,7 +7,7 @@ import urllib.request
 import RPi.GPIO as GPIO
 import traceback
 
-version = "1.6"
+version = "1.7"
 
 time.sleep(12)
 
